@@ -1,3 +1,3 @@
 # KoKoa Clone project
 
-Css got so much better!
+Html & Css are so much better!
